@@ -1,0 +1,1 @@
+* Useful link: https://github.com/deanbot/easy-wsl-oh-my-zsh-p10k
